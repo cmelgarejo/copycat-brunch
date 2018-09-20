@@ -1,6 +1,6 @@
 {
   "name": "copycat-brunch",
-  "version": "1.0.9",
+  "version": "1.1.0",
   "description": "Brunch plugin used to copy files to the set public directory, ideal for compiled bower components.",
   "author": "Christian Melgarejo (@cmelgarejo)",
   "homepage": "https://github.com/cmelgarejo/copycat-brunch",
