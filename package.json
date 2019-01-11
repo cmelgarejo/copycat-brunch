@@ -16,7 +16,7 @@
   "dependencies": {
     "loggy": "^1.0.4",
     "mkdirp": "^0.5.1",
-    "quickly-copy-file": "^0.1.0"
+    "quickly-copy-file": "^1.0.0"
   },
   "devDependencies": {}
 }
